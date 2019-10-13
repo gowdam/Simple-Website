@@ -1,6 +1,13 @@
 .body {
-  background-color: blue;
+  background-color: white;
 }
 .heading {
-  color: white;
+  color: black;
 }
+.para {
+  color: red;
+}
+.para2 {
+  color: blue;
+}
+
